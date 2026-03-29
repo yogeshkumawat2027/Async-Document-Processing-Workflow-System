@@ -9,6 +9,57 @@ A production-style full stack application that enables users to upload documents
 * Frontend: https://github.com/yogeshkumawat2027/docflow-frontend
 ---
 
+
+
+## 🧪 Backend API Testing (Local Environment)
+
+⚠️ **Note:** Backend deployment is currently not fully functional on cloud due to background worker limitations (explained below).
+Therefore, the following screenshots are from the **local working environment**.
+
+### 🔹 Upload API
+
+<img src="https://github.com/user-attachments/assets/6078c5d6-ab72-4103-b1dc-4db3b8cf9ed8" width="100%"/>
+
+### 🔹 Job Listing API
+
+<img src="https://github.com/user-attachments/assets/6d8d853d-431b-4098-8034-13585004fe6c" width="100%"/>
+
+### 🔹 Job Detail API
+
+<img src="https://github.com/user-attachments/assets/7b15cc85-6c4c-44c2-bccb-3b9a1351ed6b" width="100%"/>
+
+### 🔹 Status Tracking
+
+<img src="https://github.com/user-attachments/assets/21b8fd50-9540-46a5-b8e1-04c548b8232a" width="100%"/>
+
+---
+
+## 💻 Frontend UI (Local)
+
+The frontend is fully functional and integrated with the backend locally.
+
+### 🔹 Dashboard
+
+<img src="https://github.com/user-attachments/assets/77fd291d-f1ae-46b6-84fe-99c9d8545a4a" width="100%"/>
+
+### 🔹 Upload Interface
+
+<img src="https://github.com/user-attachments/assets/c8786268-8cf7-4fff-9e80-478a27241175" width="100%"/>
+
+### 🔹 Job Detail Page
+
+<img src="https://github.com/user-attachments/assets/af9b0447-7212-4ffb-ab65-0fc874973746" width="100%"/>
+
+### 🔹 Processed Output
+
+<img src="https://github.com/user-attachments/assets/49f04880-c678-4612-ab99-1b7b1e77df83" width="100%"/>
+
+### 🔹 Finalized Result
+
+<img src="https://github.com/user-attachments/assets/846bb072-59f2-4ee1-a4aa-809e6c6e7af1" width="100%"/>
+
+---
+
 ## 📌 Overview
 
 This project demonstrates a real-world asynchronous workflow using:
@@ -66,57 +117,6 @@ PostgreSQL
 * Export as JSON and CSV
 
 ---
-
-## 🧪 Backend API Testing (Local Environment)
-
-⚠️ **Note:** Backend deployment is currently not fully functional on cloud due to background worker limitations (explained below).
-Therefore, the following screenshots are from the **local working environment**.
-
-### 🔹 Upload API
-
-<img src="https://github.com/user-attachments/assets/6078c5d6-ab72-4103-b1dc-4db3b8cf9ed8" width="100%"/>
-
-### 🔹 Job Listing API
-
-<img src="https://github.com/user-attachments/assets/6d8d853d-431b-4098-8034-13585004fe6c" width="100%"/>
-
-### 🔹 Job Detail API
-
-<img src="https://github.com/user-attachments/assets/7b15cc85-6c4c-44c2-bccb-3b9a1351ed6b" width="100%"/>
-
-### 🔹 Status Tracking
-
-<img src="https://github.com/user-attachments/assets/21b8fd50-9540-46a5-b8e1-04c548b8232a" width="100%"/>
-
----
-
-## 💻 Frontend UI (Local)
-
-The frontend is fully functional and integrated with the backend locally.
-
-### 🔹 Dashboard
-
-<img src="https://github.com/user-attachments/assets/77fd291d-f1ae-46b6-84fe-99c9d8545a4a" width="100%"/>
-
-### 🔹 Upload Interface
-
-<img src="https://github.com/user-attachments/assets/c8786268-8cf7-4fff-9e80-478a27241175" width="100%"/>
-
-### 🔹 Job Detail Page
-
-<img src="https://github.com/user-attachments/assets/af9b0447-7212-4ffb-ab65-0fc874973746" width="100%"/>
-
-### 🔹 Processed Output
-
-<img src="https://github.com/user-attachments/assets/49f04880-c678-4612-ab99-1b7b1e77df83" width="100%"/>
-
-### 🔹 Finalized Result
-
-<img src="https://github.com/user-attachments/assets/846bb072-59f2-4ee1-a4aa-809e6c6e7af1" width="100%"/>
-
----
-
-
 
 ---
 
